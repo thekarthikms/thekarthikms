@@ -4,8 +4,8 @@
 - ✨ I love creating beautiful designs and developing them using front-end technologies.
 - ✨ I'm currently working as a freelance front-end developer.
 ##
-- [LinkedIn Profile](https://linkedin.com/in/thekarthikms "Karthik M S"){:target="_blank"} 
-- [Portfolio Website](https://thekarthikms.netlify.app "Karthik M S"){:target="_blank"} 
+- [LinkedIn Profile](https://linkedin.com/in/thekarthikms "Karthik M S")
+- [Portfolio Website](https://thekarthikms.netlify.app "Karthik M S")
 
 <!--
 **thekarthikms/thekarthikms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
