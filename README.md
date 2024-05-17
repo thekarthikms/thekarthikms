@@ -2,7 +2,7 @@
 
 - ✨ I'm a front-end developer from India. 
 - ✨ I love creating beautiful designs and developing them using front-end technologies.
-- ✨ I'm currently working as a freelance front-end developer.
+- ✨ I'm currently working as a Software Engineer.
 ##
 - [LinkedIn Profile](https://linkedin.com/in/thekarthikms "Karthik M S")
 - [Portfolio Website](https://thekarthikms.netlify.app "Karthik M S")
