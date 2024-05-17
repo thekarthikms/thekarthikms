@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Karthik
 
-- ✨ I'm a front-end developer and enthusiast from India. 
+- ✨ I'm a front-end developer from India. 
 - ✨ I love creating beautiful designs and developing them using front-end technologies.
 - ✨ I'm currently working as a freelance front-end developer.
 ##
